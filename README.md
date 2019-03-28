@@ -24,27 +24,41 @@ sudo yum install emacs
 
   - Open, save and close files/buffers
 
-  Open: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>f</kbd>
+    Open: <kbd>CTRL</kbd>+<kbd>x</kbd>  <kbd>CTRL</kbd>+<kbd>f</kbd>
 
-  Save: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>s</kbd>
+    Save: <kbd>CTRL</kbd>+<kbd>x</kbd>  <kbd>CTRL</kbd>+<kbd>s</kbd>
 
   - Exit/quit
 
-  Exit: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>c</kbd>
+    Exit: <kbd>CTRL</kbd>+<kbd>x</kbd>  <kbd>CTRL</kbd>+<kbd>c</kbd>
   
   - Beginning, end of line, file etc.
 
-  Beginning: <kbd>ALT</kbd>+<kbd><</kbd>
+    Beginning: <kbd>ALT</kbd>+<kbd><</kbd>
 
-  End: <kbd>ALT</kbd>+<kbd>></kbd>
+    End: <kbd>ALT</kbd>+<kbd>></kbd>
   
   - Copy, paste delete etc.
 
+    MARK(begin): <kbd>CTRL</kbd>+<kbd>space</kbd>
+    
+    Copy: <kbd>ALT</kbd>+<kbd>w</kbd>
+
+    Paste: <kbd>CTRL</kbd>+<kbd>y</kbd>
+
   - Search, incremental search, query-replace
+
+    Search: <kbd>CTRL</kbd>+<kbd>s</kbd>
+
+    Query-Replace: <kbd>ALT</kbd>+<kbd>x</kbd>  query-replace
 
   - Undo/Redo
 
+    Undo: <kbd>CTRL</kbd>+<kbd>x</kbd>  <kbd>u</kbd>
+
   - Spell check with ispell
+
+    <kbd>ALT</kbd>+<kbd>x</kbd>  ispell
 
 ## Buffers and windows
 
