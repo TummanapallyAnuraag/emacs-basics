@@ -5,7 +5,9 @@ EMACS is not so friendly to learn. It needs some time to get along with.
 
 * Debina/Ubuntu
 
-`sudo apt-get install emacs ok`
+```
+sudo apt-get install emacs
+```
 
 * CentOS/Fedora/RH-like
 
@@ -22,35 +24,19 @@ sudo yum install emacs
 
   - Open, save and close files/buffers
 
-  ```
-  To Open
-  
-  <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>f</kbd>
+  Open: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>f</kbd>
 
-  To Save
-
-  <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>s</kbd>
-  ```
+  Save: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>s</kbd>
 
   - Exit/quit
 
-  ```
-  To Close
-
-  <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>c</kbd>
-  ```
+  Exit: <kbd>CTRL</kbd>+<kbd>x</kbd> <kbd>CTRL</kbd>+<kbd>c</kbd>
   
   - Beginning, end of line, file etc.
-  
-  ```
-  Start of the File
 
-  <kbd>ALT</kbd>+<kbd><</kbd>
+  Beginning: <kbd>ALT</kbd>+<kbd><</kbd>
 
-  End of the File
-  
-  <kbd>ALT</kbd>+<kbd>></kbd>
-  ```
+  End: <kbd>ALT</kbd>+<kbd>></kbd>
   
   - Copy, paste delete etc.
 
